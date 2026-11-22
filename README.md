@@ -72,7 +72,7 @@ Verified against the specification's practice set and three independent
 | Trial 0 (100 checks) | 100 / 100 |
 | Trial 1 (100 checks) | 100 / 100 |
 | Trial 2 (100 checks) | 100 / 100 |
-| Extra edge cases (usage errors, atomicity, CRLF, no-newline, moves, ambiguity) | 73 / 73 |
+| Extra edge cases (usage errors, atomicity, CRLF, no-newline, moves, ambiguity) | 78 / 78 |
 
 Run the practice set yourself with the included checker:
 
